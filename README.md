@@ -4,7 +4,9 @@ A working ML model to classify social media text to remove and report the text w
 This project aims at classifying social media Hinglish text based on aggression into 3 classes namely NAG(Non Aggressive), CAG(Covertly Aggressive) and OAG (Overly Aggressive).
 
 Covertly Aggressive (CAG): This label was given to comments which had a hint of hate speech or had some moderately bad words.
+
 Overtly Aggressive (OAG): This label was given to comments which had conspicuous hate and had explicit abusive words.
+
 Not Aggressive (NAG): The rest of the comments were labelled as non-aggressive
 
 Methods	& Accuracies %
